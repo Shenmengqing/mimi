@@ -1,0 +1,2 @@
+# mimi
+my resources
